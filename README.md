@@ -10,4 +10,4 @@ Space between cells names (NNG45Y00)
 
 Eliminate lines, separate with comas 
 
-\n  -->  \,
+\n  -->  \\,
